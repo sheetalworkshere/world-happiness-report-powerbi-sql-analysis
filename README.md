@@ -1,3 +1,4 @@
+
 # World Happiness Report Analysis (2015–2024)
 
 ## Project Overview
